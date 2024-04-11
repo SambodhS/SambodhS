@@ -1,6 +1,6 @@
 Hi!
 
-I'm Sambodh, an incoming freshman at Vanderbilt University. I'm primarily interested in the analysis of high-throughput omics data, but I've dabbled in biophysics/statistical mechanics.
+I'm Sambodh, an incoming freshman at Vanderbilt University. I'm primarily interested in the analysis of high-throughput omics data, but I've dabbled in biophysics and statistical mechanics.
 
 <!--
 **SambodhS/SambodhS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
