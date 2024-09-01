@@ -1,6 +1,6 @@
 Hi!
 
-I'm Sambodh, an incoming freshman at Vanderbilt University majoring in Biology. I'm primarily interested in the analysis of high-throughput omics data, but I also dabble in biophysics and statistical mechanics.
+I'm Sambodh, a freshman at Vanderbilt University majoring in Biology and minoring in Data Science. I'm primarily interested in the analysis of high-throughput omics data, but I also dabble in biophysics and statistical mechanics.
 
 <!--
 **SambodhS/SambodhS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
