@@ -1,4 +1,4 @@
-Hi!
+Hi,
 
 I'm Sambodh, a freshman at Vanderbilt University majoring in Biology. I'm interested in a range of problems in bioinformatics and computational biology, including multi-omics analysis, statistical mechanics, and predictive modeling. 
 
