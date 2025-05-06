@@ -1,6 +1,6 @@
 Hi,
 
-I'm Sambodh, a rising sophomore at Vanderbilt University majoring in Biology. I'm interested in a range of problems in bioinformatics and computational biology, including multi-omics analysis, statistical mechanics, and predictive modeling. I also run data analytics for Vanderbilt Soccer.
+I'm Sambodh, a rising sophomore at Vanderbilt University majoring in Biology. I'm primarily interested in the multi-omics approach to traumatic injury, but dabble in other computational problems including statistical mechanics and predictive modeling. I also run data analytics for Vanderbilt Soccer.
 
 <!--
 **SambodhS/SambodhS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
