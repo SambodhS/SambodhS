@@ -1,6 +1,6 @@
 Hi,
 
-I'm Sambodh, a rising junior at Vanderbilt University majoring in Biology. I'm primarily interested in understanding the systemic molecular response to traumatic injury and traumatic brain injury using multi-omics techniques.
+I'm Sambodh, a rising junior at Vanderbilt University majoring in Medicine, Health, and Society. I'm primarily interested in understanding the systemic molecular response to traumatic injury and traumatic brain injury using multi-omics techniques.
 <!--
 **SambodhS/SambodhS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
